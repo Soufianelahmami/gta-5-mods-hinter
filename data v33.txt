@@ -41,13 +41,13 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"Grand Theft Auto V (GTA 5), developed by Rockstar Games, has been a staple of the gaming community since its release in 2013 ",
+   "photo1":"https://iili.io/JH5Y5Bt.webp"},
+  {"desc2":"Its sprawling open-world environment, engaging storyline, and diverse multiplayer mode have kept players glued to their screens for years","photo2":"https://iili.io/JH5YuhN.webp"},
+  {"desc3":"However, it's the vibrant modding community that has breathed new life into the game, turning it into an ever-evolving playground for creativity and innovation","photo3":"https://iili.io/JH5YAQI.webp"},
+  {"desc4":"The modding scene for GTA 5 is nothing short of a phenomenon. It's a vibrant subculture within the larger gaming world, comprising talented programmers, artists, and creators who develop modifications (mods) that can transform almost every aspect of the game","photo4":"https://iili.io/JH5Y7EX.webp"},
+  {"desc5":"GTA 5 already boasts stunning graphics, but mods take it to the next level","photo5":"https://iili.io/JH5YY4n.webp"},
+  {"descd":"ENB presets, texture packs, and reshade configurations can make Los Santos and Blaine County look even more breathtaking, pushing the boundaries of what the game engine can achieve","photod":"https://iili.io/JH5Yc2s.webp"}
    ]
  
 }
